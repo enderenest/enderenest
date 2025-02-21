@@ -22,7 +22,7 @@ I also enjoy working on game development projects, applying my programming knowl
 
 ---
 
-## 🛠 Tech Stack:
+## Tech Stack:
 
 ### **Programming Languages:**
 - C++
