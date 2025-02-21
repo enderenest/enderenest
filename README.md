@@ -57,7 +57,7 @@ I also enjoy working on game development projects, applying my programming knowl
 ## Connect with Me:
 
 - **Email:** [enderenest@gmail.com](mailto:enderenest@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ender-enes-tan](https://linkedin.com/in/ender-enes-tan)
+- **LinkedIn:** [linkedin.com/in/ender-enes-tan](https://linkedin.com/in/ender-enes-tan)
 
 
 
